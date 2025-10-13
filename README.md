@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/matheuspoliveiraa/hub-links?style=plastic)
+
 # Repositório do Curso Técnico em Informática - Senac Tatuapé
 
 Este repositório foi criado para armazenar os projetos desenvolvidos durante o curso Técnico em Informática do Senac Tatuapé, ministrado pelo professor José de Assis.
