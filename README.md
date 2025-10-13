@@ -1,7 +1,8 @@
 ![GitHub License](https://img.shields.io/github/license/matheuspoliveiraa/hub-links?style=plastic)
 
 ### Author
-Estudante Matheus Pinheiro de Oliveira
+
+Estudante Matheus Pinheiro de Oliveira.
 
 # Repositório do Curso Técnico em Informática - Senac Tatuapé
 
