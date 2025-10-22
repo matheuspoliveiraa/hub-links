@@ -1,0 +1,22 @@
+/* CSS reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Ignora a borda */
+}
+
+/* Variaveis para cores */
+
+:root {
+    --Preto: #1e1e1e;
+    --Branco: #FFFFFF;
+}
+
+/* Layout */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Hanuman", serif;
+}
