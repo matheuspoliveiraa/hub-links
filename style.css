@@ -2,7 +2,8 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; /* Ignora a borda */
+    box-sizing: border-box;
+    /* Ignora a borda */
 }
 
 /* Variaveis para cores */
@@ -20,3 +21,67 @@
     align-items: center;
     font-family: "Hanuman", serif;
 }
+
+body {
+    font-family: "Hanuman", serif;
+    background-color: var(--Preto);
+}
+
+/* Cabeçalho */
+
+header img {
+    width: 145px;
+    /*Largura*/
+    height: 145px;
+    /*Altura*/
+    margin-top: 70px;
+    /*Margem Superior*/
+    border-radius: 50%;
+    /* Arrendondamento das bordas */
+}
+
+
+/*Principal*/
+
+main {
+    text-align: center;
+}
+
+main h1 {
+    margin: 10px 0px;
+    font-size: 1.5rem;
+    font-weight: 650; /*Peso da letra*/
+    color: var(--Branco)
+}
+
+main p {
+    max-width: 250px; /* Largura máxima */
+    margin-bottom: 30px;
+    color: var(--Branco);
+}
+
+/* Links */
+
+.container > a {
+    text-decoration: none;
+    background-color: var(--Branco);
+    color: var(--Preto);
+    width: 320px;
+    text-align: center;
+    margin: 12px 40px;
+    height: 50px;
+    font-weight: 700;
+    border-radius: 50px;
+    padding-top: 15px;
+}
+
+/* Rodapé */
+footer {
+    margin-top: 20px;
+}
+
+footer img {
+    margin: 0px 10px;
+}
+
+
